@@ -23,4 +23,7 @@ IMPORTANTE Me habia dejado la ID de usuario/contraseña en git
 pasos anteriores y lo hice con: 
 git push origin master
 
+creo que ha funcionado pues hice primero el commit y  no moifique el archivo, sólo añadí una línea final.
+**ahora con este cambio no se si dará error...
+
 Hago un cambio desde GitHub y quiero que se refleje en git.
