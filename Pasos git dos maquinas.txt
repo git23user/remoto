@@ -19,4 +19,7 @@ IMPORTANTE Me habia dejado la ID de usuario/contraseña en git
 
 7º Creo que esta receta funciona
 
+8º He añadido el fichero borrado "pasos git dos maquinas" despues de los
+pasos anteriores y lo hice con: 
+git push origin master
 
