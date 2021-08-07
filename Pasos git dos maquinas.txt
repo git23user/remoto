@@ -23,3 +23,5 @@ IMPORTANTE Me habia dejado la ID de usuario/contraseña en git
 pasos anteriores y lo hice con: 
 git push origin master
 
+--Añadir cambios desde GitHub a git--
+Vamos a actualizar desde github a git (añadiendo 2 líneas de texto)
