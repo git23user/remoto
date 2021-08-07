@@ -25,3 +25,4 @@ git push origin master
 
 --Añadir cambios desde GitHub a git--
 Vamos a actualizar desde github a git (añadiendo 2 líneas de texto)
+De momento con git pull desde git no ha funcionado (sospecho que será pq tenía abierto el archivo)
