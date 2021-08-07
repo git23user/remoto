@@ -23,4 +23,4 @@ IMPORTANTE Me habia dejado la ID de usuario/contraseña en git
 pasos anteriores y lo hice con: 
 git push origin master
 
-
+Hago un cambio desde GitHub y quiero que se refleje en git.
