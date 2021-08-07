@@ -1,0 +1,16 @@
+-Thredreapper-
+1º Ejecutar git init
+ -- He de aclarar cuando aparece la ventana de confirmación (creo que es cuado lo hace a través de github)
+2º git add <nombre del archivo> -> crea el stagin area
+IMPORTANTE Me habia dejado la ID de usuario/contraseña en git
+git config --user.email <>
+git config --user.name <>
+
+3º git commit -m <nombre del commit>
+
+4º Entro en github. creo la carpeta para el repo y copy del la dirección de la carpeta
+
+5º git clone <url>
+
+6º git clone https://github.com/git23user/Entre-2-m-quinas.git
+
